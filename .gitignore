@@ -1,0 +1,6 @@
+11_env/
+__pycache__/
+ll_env/
+db.sqlite3
+htmlcov/
+coverage
